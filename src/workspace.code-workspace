@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "UserAuthenticationDevice",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp"
+		}
+	}
+}
